@@ -139,24 +139,6 @@ python textExtractor.py
 | Combiner plusieurs PDF | PDF Merger |
 | Extraire du texte d'une image | OCR Extractor |
 
-## 📝 Notes importantes
-
-- Testez toujours en mode **simulation** avant d'appliquer les changements
-- Faites des **sauvegardes** avant de supprimer des fichiers
-- Les fichiers du Password Manager doivent être **sécurisés**
-- L'OCR fonctionne mieux avec du texte **imprimé** qu'avec du manuscrit
-
-## 🤝 Contribuer
-
-Vous pouvez améliorer ces projets en:
-- Ajoutant de nouvelles fonctionnalités
-- Optimisant le code
-- Créant des interfaces graphiques
-- Ajoutant plus de langues à l'OCR
-
-## 📄 Licence
-
-Libre d'utilisation pour usage personnel et éducatif.
 
 ## 👨‍💻 Auteur
 
